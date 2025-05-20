@@ -28,3 +28,4 @@ print(x.imag)
 ![image](https://github.com/user-attachments/assets/2853ab31-a913-4f81-958c-b52954a74b21)
 
 ## Result
+Therfore,the given python program is successfully verified
